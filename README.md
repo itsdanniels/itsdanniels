@@ -6,7 +6,7 @@ I'm Fullstack developer
 
 Coming soon my projects...
 
-* 🌍  I'm based in Fortaleza
+* 🌍  I'm based in Fortaleza/CE
 * ✉️  You can contact me at [danielsouza2504@gmail.com](mailto:danielsouza2504@gmail.com)
 
 ### Skills
